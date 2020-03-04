@@ -4,7 +4,7 @@ Descripción breve del proyecto a realizar (2-3 frases).
 
 ## Integrantes del equipo
 
-Adnan Talib
+Adnan Talib,
 Diego Medina
 
 ## Objetivos del trabajo
