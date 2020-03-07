@@ -1,6 +1,6 @@
-# Título del trabajo
+# NBA GOATS
 
-Descripción breve del proyecto a realizar (2-3 frases).
+
 
 ## Integrantes del equipo
 
