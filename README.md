@@ -1,11 +1,11 @@
-# Título del trabajo
+# NBA GOATS
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Es un programa para aficionados a la NBA, cuenta con una base de datos de todos los equipos nba, con información de los jugadores. Aparte de informarte acerca de tus jugadores favoritos, tu puedes predecir el campeón de la NBA realizando el bracket y también podrás elegir tu equipo all-star, tu MVP, el mejor entrenador, mejor sexto hombre..., y guardarlo para compararlo con el de otros amigos.
 
 ## Integrantes del equipo
 
-Adnan Talib,
-Diego Medina
+*AADNAN TALIB RIZQUI, 
+*DIEGO MEDINA ESPINOSA, 
 
 ## Objetivos del trabajo
 
